@@ -25,7 +25,7 @@ The repository consists of two parts: one is the code for simulation studies, an
 ## PART 2. Real Data Analysis
 
 ### (1). Real data
-The Chinese judgement data needed for reproducing the results is available in the folder named 'Real Data' as data_room.csv. 
+The Chinese judgement data needed for reproducing the results is named as data_room.csv. 
 
 - Brief description: This dataset was randomly sampled from the 2018 Chinese burglary judgements. Each row represents a sample of cases.
 - Response variable: penalty_prison_length, continuous.
