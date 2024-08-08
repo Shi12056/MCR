@@ -2,7 +2,7 @@
 
 This repository provides python codes for the mixture conditional regression (MCR) with ultrahigh dimensional text  data accompanying the paper.
 
-> Shi, J., Wang, F., Gao, Y., Song, X., and Wang, H. (2023). Mixture Conditional Regression with Ultrahigh Dimensional Text Data for Estimating Extralegal Factor Effects. arXiv preprint arXiv:2311.07906.
+> Jiaxin Shi. Fang Wang. Yuan Gao. Xiaojun Song. Hansheng Wang. "Mixture conditional regression with ultrahigh dimensional text data for estimating extralegal factor effects." Ann. Appl. Stat. 18 (3) 2532 - 2550, September 2024. https://doi.org/10.1214/24-AOAS1893
 
 ## Overview
 
